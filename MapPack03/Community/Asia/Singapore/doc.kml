@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Singapore</name>
+	<color>78ffffff</color>
+	<Icon>
+		<href>singapore.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			103.6096117829561,1.134098696050692,0 103.8796674544183,1.134098696050692,0 103.8796674544183,1.336256862325497,0 103.6096117829561,1.336256862325497,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

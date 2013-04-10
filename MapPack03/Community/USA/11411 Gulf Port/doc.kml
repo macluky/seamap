@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>11411 Gulf Port</name>
+	<Icon>
+		<href>11411_2-TAMPA_BAY-PORT_RICHEY-CLEARWATER-HBR-PORT_RICHEY-4.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			-82.78671514303886,27.59823687023826,0 -82.65608927594371,27.5985079591835,0 -82.65608927594371,27.7954911582415,0 -82.78639912896892,27.79562964126964,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

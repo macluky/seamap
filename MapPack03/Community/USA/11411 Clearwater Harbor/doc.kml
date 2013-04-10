@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>11411 Clearwater Harbor</name>
+	<Icon>
+		<href>11411_2-TAMPA_BAY-PORT_RICHEY-CLEARWATER-HBR-PORT_RICHEY-2.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			-82.85232300709431,27.91613738169528,0 -82.76905019461368,27.91599992007626,0 -82.76906815419727,28.07365411976207,0 -82.85190720904353,28.07397514233661,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Strait of Tiran</name>
+	<color>73ffffff</color>
+	<Icon>
+		<href>maps-bible-archeology-exodus-route-red-sea-crossing-straits-of-tiran-british-admiralty-nautical-depth-chart-12.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>28.50346895659955</north>
+		<south>27.84846884142432</south>
+		<east>34.78121192284937</east>
+		<west>34.36492552740273</west>
+		<rotation>0.0494628525922171</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Gulf of Mexico</name>
+	<color>80ffffff</color>
+	<Icon>
+		<href>mex_mzn72_2009.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>26.3745795809806</north>
+		<south>17.42396112092244</south>
+		<east>-83.44090608361755</east>
+		<west>-98.53845131358665</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

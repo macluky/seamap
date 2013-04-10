@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Marmaris Approach</name>
+	<color>75ffffff</color>
+	<Icon>
+		<href>Marmaris Approach.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>36.87465690366995</north>
+		<south>36.70817080375384</south>
+		<east>28.34086904761308</east>
+		<west>28.21856372391991</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

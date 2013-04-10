@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Croatia, Zirje</name>
+	<Icon>
+		<href>Croatia.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>43.81374337010926</north>
+		<south>43.49569107054584</south>
+		<east>15.99114100179305</east>
+		<west>15.36816378581279</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

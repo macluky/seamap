@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Stavanger</name>
+	<color>96ffffff</color>
+	<Icon>
+		<href>stavanger.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			5.399648548949463,58.90022731827676,0 5.916367497451378,58.91350460903044,0 5.899878719374181,59.09997283078793,0 5.3802094404714,59.08683432214708,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

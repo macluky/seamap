@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>11411 Palm Harbor</name>
+	<Icon>
+		<href>11411_2-TAMPA_BAY-PORT_RICHEY-CLEARWATER-HBR-PORT_RICHEY-5.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			-82.84306225121983,28.02891076536787,0 -82.76631003406064,28.02845856015182,0 -82.76658422850915,28.10182164498902,0 -82.84370634335029,28.10149426302022,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>

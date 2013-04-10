@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>1142 Tampa Bay Approach</name>
+	<Icon>
+		<href>11412-Tampa-Bay-1.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.82370327239934</north>
+		<south>27.58751018283116</south>
+		<east>-82.39998923955791</east>
+		<west>-82.67275844912004</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

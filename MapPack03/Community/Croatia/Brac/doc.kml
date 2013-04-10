@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Croatia, Brac</name>
+	<Icon>
+		<href>Omis_Croatia-Nautical Chart.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>43.52826079372335</north>
+		<south>43.25025617588565</south>
+		<east>16.93574889722689</east>
+		<west>16.39803266254414</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Gocek Port</name>
+	<color>7affffff</color>
+	<Icon>
+		<href>614_9_gocek.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>36.75720009625159</north>
+		<south>36.74314719343047</south>
+		<east>28.94630825691787</east>
+		<west>28.91983282419383</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

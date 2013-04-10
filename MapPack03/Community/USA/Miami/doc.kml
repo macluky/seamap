@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Miami</name>
+	<color>8affffff</color>
+	<Icon>
+		<href>N-chart_11451.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>25.80782410343193</north>
+		<south>25.50246257825417</south>
+		<east>-80.06860050795174</east>
+		<west>-80.38848736248978</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
