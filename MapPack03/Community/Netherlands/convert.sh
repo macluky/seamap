@@ -10,7 +10,7 @@ function writeTile {
     echo "            <Icon>"
     echo -n "                <href>"
     filename=`cat $1 |grep "^fname = " |cut -d = -f 3 |cut -c 2-`
-    echo $filename
+    echo ONC-${filename}
     echo "                </href>"
     echo "                <viewBoundScale>1.00</viewBoundScale>"
     echo "            </Icon>"
