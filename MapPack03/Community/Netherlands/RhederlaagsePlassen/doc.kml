@@ -1,0 +1,26 @@
+<kml>
+    <Folder>
+        <name>RhederlaagsePlassen
+       </name>
+        <GroundOverlay>
+            <name>Ned_1413
+               </name>
+            <drawOrder>1</drawOrder>
+            <Icon>
+                <href>Ned_1413.png
+                </href>
+                <viewBoundScale>1.00</viewBoundScale>
+            </Icon>
+            <LatLonBox>
+                <north>52.0592458901158
+               </north>
+                <south>51.9239434455447
+                </south>
+                <east>6.1083984375
+                </east>
+                <west>5.888671875
+                </west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Folder>
+</kml>

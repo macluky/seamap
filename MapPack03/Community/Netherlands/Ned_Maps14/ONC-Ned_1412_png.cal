@@ -1,0 +1,28 @@
+; Calibration File for QV Map
+; Calibration made by madeBIGmap
+name = 10 = Ned_1412
+fname = 10 = Ned_1412.png
+nord = 6 = 52.1941397415976
+sued = 6 = 52.0592458901158
+ost = 6 = 6.1083984375
+west = 6 = 5.888671875
+scale_area = 6 =  2.980008e-010
+proj_mode = 10 = proj
+projparams = 10 = proj=merc lon_0=9
+datum1 = 10 = WGS 84# 6378137# 298.257223563# 0# 0# 0#
+c1_x = 7 =  0
+c1_y = 7 =  0
+c2_x = 7 =  10240
+c2_y = 7 =  0
+c3_x = 7 =  10240
+c3_y = 7 =  10240
+c4_x = 7 =  0
+c4_y = 7 =  10240
+c1_lat = 7 =  52.1941397415976
+c1_lon = 7 =  5.888671875
+c2_lat = 7 =  52.1941397415976
+c2_lon = 7 =  6.1083984375
+c3_lat = 7 =  52.0592458901158
+c3_lon = 7 =  6.1083984375
+c4_lat = 7 =  52.0592458901158
+c4_lon = 7 =  5.888671875
