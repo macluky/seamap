@@ -9,9 +9,9 @@ function writeTile {
     echo "            <drawOrder>1</drawOrder>"
     echo "            <Icon>"
     echo -n "                <href>"
-    filename=`cat $1 |grep "^fname = " |cut -d = -f 3 |cut -c 2-`
-    echo ONC-${filename}
-    echo "                </href>"
+    filename=`cat $1 |grep "^fname = " |cut -d = -f 3 |cut -c 2- | sed "s///"`
+    echo -n ONC-${filename}
+    echo "</href>"
     echo "                <viewBoundScale>1.00</viewBoundScale>"
     echo "            </Icon>"
     echo "            <LatLonBox>"
@@ -52,14 +52,14 @@ then
 fi
 
 function getName () {
-    mapname=`cat $1 |grep "^name = " |cut -d = -f 3 |cut -c 2-`
+    mapname=`cat $1 |grep "^name = " |cut -d = -f 3 |cut -c 2-| sed "s///"`
 }
 
 function getCorners () {
-    north=`cat $1 |grep "^nord = " |cut -d = -f 3 |cut -c 2-`
-    south=`cat $1 |grep "^sued = " |cut -d = -f 3 |cut -c 2-`
-    east=`cat $1 |grep "^ost = " |cut -d = -f 3 |cut -c 2-`
-    west=`cat $1 |grep "^west = " |cut -d = -f 3 |cut -c 2-`
+    north=`cat $1 |grep "^nord = " |cut -d = -f 3 |cut -c 2-| sed "s///"`
+    south=`cat $1 |grep "^sued = " |cut -d = -f 3 |cut -c 2-| sed "s///"`
+    east=`cat $1 |grep "^ost = " |cut -d = -f 3 |cut -c 2-| sed "s///"`
+    west=`cat $1 |grep "^west = " |cut -d = -f 3 |cut -c 2-| sed "s///"`
 }
 
 writeHeader $1 > $1/doc.kml
